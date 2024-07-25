@@ -44,6 +44,7 @@ The key features of the EK-RA8M1 board are categorized in three groups as follow
   - Two User buttons
   - One Reset button
   - Quy is here
+  - The second commit
 - Five most popular ecosystems expansions
 
   - Two Seeed Grove system (I2C/I3C) connectors
