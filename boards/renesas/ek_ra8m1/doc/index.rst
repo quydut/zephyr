@@ -43,7 +43,7 @@ The key features of the EK-RA8M1 board are categorized in three groups as follow
   - Debug LED (yellow) indicating the debug connection
   - Two User buttons
   - One Reset button
-
+  - Quy is here
 - Five most popular ecosystems expansions
 
   - Two Seeed Grove system (I2C/I3C) connectors
